@@ -1,0 +1,28 @@
+{
+    "token": "",
+    "ticketChannel": "",
+    "ticketCategory": "",
+    "roleSupport": "",
+    "ticketOptions": [
+        {
+          "label": "Support",
+          "value": "Support",
+          "emoji": { "name": "❓" }
+        },
+        {
+          "label": "Kaufen",
+          "value": "Kaufen",
+          "emoji": { "name": "🛒" }
+        },
+        {
+          "label": "FiveM Support",
+          "value": "FiveM Support",
+          "emoji": { "name": "👻" }
+        },
+        {
+          "label": "Donate",
+          "value": "Donate",
+          "emoji": { "name": "💸" }
+        }
+      ]
+}
